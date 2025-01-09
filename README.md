@@ -1,4 +1,6 @@
 # Sentiment Analysis - YouTube Comments
+## Certificate Link :- https://drive.google.com/drive/folders/1poMrRHDu8DfOJh-6fb5LYMk293GveAD6?usp=drive_link
+
 
 ## Overview
 
